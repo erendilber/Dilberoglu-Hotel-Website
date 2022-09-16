@@ -1,0 +1,11 @@
+.container-2{
+    width: 50%;
+    background: linear-gradient(to bottom left, #03045e 40%, #00b4d8 100%);
+    border-radius:15px;
+    box-shadow: 15px 15px 15px #b4b4b4;
+    margin-left: 480px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 2%;
+    
+  }
